@@ -41,7 +41,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[GramConnect---Smart-Village-Governance-Development-Public-Transparency-Platform]([https://github.com/aathithya55/AI-Resume-Analyzer](https://github.com/santhosh9751/GramConnect---Smart-Village-Governance-Development-Public-Transparency-Platform)** | Bridging the gap between Panchayat administration and citizens — one village at a time.
+| **[GramConnect---Smart-Village-Governance-Development-Public-Transparency-Platform](https://github.com/santhosh9751/GramConnect---Smart-Village-Governance-Development-Public-Transparency-Platform)** | Bridging the gap between Panchayat administration and citizens — one village at a time.
 | **[Fake-News-Identification-Evidence-Tracing](https://github.com/santhosh9751/Fake-News-Identification-Evidence-Tracing)** | An evidence-based fake news detection system built with Spring Boot, MySQL, and a vanilla JS dashboard. Analyzes news articles for credibility using clickbait detection, implausible claim matching, and trusted-source verification. 
 | **[Automated-Attendance-System-for-Rural-Schools](https://github.com/santhosh9751/Automated-Attendance-System-for-Rural-Schools)** | This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
