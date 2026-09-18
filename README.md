@@ -41,14 +41,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[AI Resume Analyzer](https://github.com/aathithya55/AI-Resume-Analyzer)** | Web app that analyzes resumes and gives feedback on skills, keywords, formatting, and job relevance | Python |
-| **[Customer Sales Insights Analysis](https://github.com/aathithya55/Customer-Sales-Insights-Analysis)** | Analyzes customer purchase data to uncover sales patterns and behavior via interactive dashboards | SQL, Excel, Power BI, Python |
-| **[College WhatsApp Bot](https://github.com/aathithya55/college-whatsapp-bot)** | WhatsApp AI chatbot for an engineering college that answers student queries on courses and fees using Google Gemini AI | Python |
-| **[Track Monitoring System](https://github.com/aathithya55/Track-Monitoring-System)** | Monitors and tracks system/asset status in real time, analyzing data to detect issues and improve efficiency | — |
-| **[Student Management System](https://github.com/aathithya55/Student-Management-System)** | Manages student records — add, update, delete, and view student information efficiently | — |
-| **[Simple Alarm Clock Project](https://github.com/aathithya55/Simple-Alarm-Clock-Project)** | A simple alarm clock application | Python |
-
----
+| **[GramConnect---Smart-Village-Governance-Development-Public-Transparency-Platform]([https://github.com/aathithya55/AI-Resume-Analyzer](https://github.com/santhosh9751/GramConnect---Smart-Village-Governance-Development-Public-Transparency-Platform)** | Bridging the gap between Panchayat administration and citizens — one village at a time.
+| **[Fake-News-Identification-Evidence-Tracing](https://github.com/santhosh9751/Fake-News-Identification-Evidence-Tracing)** | An evidence-based fake news detection system built with Spring Boot, MySQL, and a vanilla JS dashboard. Analyzes news articles for credibility using clickbait detection, implausible claim matching, and trusted-source verification. 
+| **[Automated-Attendance-System-for-Rural-Schools](https://github.com/santhosh9751/Automated-Attendance-System-for-Rural-Schools)** | This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
 ### 📫 Get in Touch
 
